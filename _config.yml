@@ -1,9 +1,9 @@
 title: "The Cloud from the South"
 author: "REZA"
-description: "To my family and especially to my Dad.
-To my city that was brought into being by oil, almost killed by oil.
-you will remain with me forever.
-sharing my learning's, so you might find it useful. If you have any questions feel free to ask."
+description: "To my family and especially to my Dad."
+#To my city that was brought into being by oil, almost killed by oil.
+#you will remain with me forever.
+#sharing my learning's, so you might find it useful. If you have any questions feel free to ask.
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 #email: "LAB_ADAN@outlook.com"
@@ -22,7 +22,7 @@ sharing my learning's, so you might find it useful. If you have any questions fe
 #########################################################################################
 theme: "minima"
 url: "https://mradelvand.github.io"
-baseurl: "/ansible"
+baseurl: "/git"
 rss: rss
 
 kramdown:
