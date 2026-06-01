@@ -9,7 +9,7 @@
 
 | Lab | Topics | Level |
 |-----|--------|-------|
-| [Keeping Your Code Public and Your Data Private with Two GitHub Repos](github-public-private-repo-pattern.md) | `.gitignore`, multi-repo workflow, shell aliases, data privacy | Beginner–Intermediate |
+| [Keeping Your Code Public and Your Data Private with Two GitHub Repos](2026-06-01-github-public-private-repo-pattern.md) | `.gitignore`, multi-repo workflow, shell aliases, data privacy | Beginner–Intermediate |
 
 ## What You'll Learn
 
