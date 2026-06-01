@@ -2,7 +2,7 @@
 
 > Hands-on, production-minded git labs built by Reza — a network and cloud automation engineer.
 
-**Live blog:** [mradelvand.github.io/ansible](https://mradelvand.github.io/git)
+**Live blog:** [mradelvand.github.io/git](https://mradelvand.github.io/git)
 
 ---
 
