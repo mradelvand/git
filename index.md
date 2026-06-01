@@ -1,21 +1,18 @@
 # My Learning Blog 
-
 Welcome to my personal documentation space 
 
 ---
 
-##  Explore by Category
-
-
+## Explore by Category
 
 > [📁 Blog Archive](archive.html).
 
 ---
 
-###  About Me
+### About Me
 
-Hi, I'm **Reza** — passionate about **Cloud + Network Automation **.  
-This blog documents my continuous learning journey .  
+Hi, I'm **Reza** — passionate about **Cloud + Network Automation**.  
+This blog documents my continuous learning journey.  
 Expect practical notes, architectural insights, and publishable mini-projects built from real-world experience.
 
 ---
@@ -27,13 +24,20 @@ Expect practical notes, architectural insights, and publishable mini-projects bu
 > and this blog is a way to honor his influence and memory.
 
 *In his memory, I keep learning — one post at a time.*
+
 — *Reza*
 
 ---
 
-##  Latest Posts
+## Latest Posts
 
 {% for post in site.posts limit:5 %}
 - [{{ post.title }}]({{ post.url | relative_url }}) — *{{ post.date | date: "%B %Y" }}*
 {% endfor %}
+
 ---
+
+### Recent Highlights
+
+- **[Keeping Your Code Public and Your Data Private with Two GitHub Repos]({% post_url 2026-06-01-github-public-private-repo-pattern %})** — *June 2026*  
+  A practical two-repo Git pattern for sharing your code without exposing personal data. Covers `.gitignore`, shell aliases, and multi-machine sync.
