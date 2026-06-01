@@ -6,9 +6,7 @@ Welcome to my personal documentation space
 
 ##  Explore by Category
 
-- [LAB01: From Zero to Production-Ready Automation with Vagrant](/ansible/2026/04/27/lab01.html)
-- [LAB02: Ansible and AWS](/ansible/2026/04/29/lab02.html)
-- [Ansible Vault vs .bashrc](/ansible/2026/05/01/bashrc-ansible-vault.html)
+
 
 > [📁 Blog Archive](archive.html).
 
