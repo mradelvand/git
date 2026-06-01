@@ -5,6 +5,7 @@ Welcome to my personal documentation space
 
 ## Explore by Category
 
+> [Keeping Your Code Public and Your Data Private with Two GitHub Repos]
 > [📁 Blog Archive](archive.html).
 
 ---
@@ -35,9 +36,3 @@ Expect practical notes, architectural insights, and publishable mini-projects bu
 - [{{ post.title }}]({{ post.url | relative_url }}) — *{{ post.date | date: "%B %Y" }}*
 {% endfor %}
 
----
-
-### Recent Highlights
-
-- **[Keeping Your Code Public and Your Data Private with Two GitHub Repos]({% post_url 2026-06-01-github-public-private-repo-pattern %})** — *June 2026*  
-  A practical two-repo Git pattern for sharing your code without exposing personal data. Covers `.gitignore`, shell aliases, and multi-machine sync.
